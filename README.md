@@ -2,10 +2,10 @@
 Create by using Express generator
 
 1. To launch website
-./launch.sh
+ ./launch.sh
 
 2. To update your local folder with you Github account
-./sync.sh
+ ./sync.sh
 
 
 Initializing project

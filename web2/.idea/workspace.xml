@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05c35165-9c7a-41b8-b3d1-c46c72177aca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/artworklist.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/getbusy.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/nextmeeting.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/socialmedia.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/speakerslist.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/whoarewe.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/partials/content/whoshouldcome.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.json" afterPath="$PROJECT_DIR$/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/template/footer.ejs" afterPath="$PROJECT_DIR$/views/partials/template/footer.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/content/nextmeeting.ejs" afterPath="$PROJECT_DIR$/views/partials/content/nextmeeting.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/content/socialmedia.ejs" afterPath="$PROJECT_DIR$/views/partials/content/socialmedia.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web2.iws" />
@@ -32,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <file leaf-file-name="socialmedia.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/partials/content/socialmedia.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45454547">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.28368795">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -56,21 +53,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sync.sh" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/partials/template/jsdefaults.ejs" />
         <option value="$PROJECT_DIR$/launch.sh" />
         <option value="$PROJECT_DIR$/views/partials/template/head.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/template/footer.ejs" />
         <option value="$PROJECT_DIR$/views/partials/template/header.ejs" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/views/partials/content/getbusy.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/whoarewe.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/whoshouldcome.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/artworklist.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/content/nextmeeting.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/content/socialmedia.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/speakerslist.ejs" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/datajson-note.txt" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/views/partials/content/nextmeeting.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/template/footer.ejs" />
+        <option value="$PROJECT_DIR$/views/partials/content/socialmedia.ejs" />
       </list>
     </option>
   </component>
@@ -89,8 +88,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="32" />
+    <option name="x" value="-21" />
+    <option name="y" value="44" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
   </component>
@@ -259,6 +258,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="socialmedia" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -557,16 +578,16 @@
       <workItem from="1451029189891" duration="2726000" />
       <workItem from="1451034365510" duration="332000" />
       <workItem from="1451035794863" duration="2493000" />
-      <workItem from="1451082904677" duration="9801000" />
+      <workItem from="1451082904677" duration="13545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15352000" />
+    <option name="totallyTimeSpent" value="19096000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="32" width="1280" height="709" extended-state="0" />
-    <editor active="false" />
+    <frame x="-21" y="44" width="1280" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -575,7 +596,8 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2445194" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2445194" sideWeight="0.48707592" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -583,14 +605,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994923" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -608,17 +629,17 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
           <folding>
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Lorenzo Garcia&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hilary Goldywynn Post&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Riley Rudolph Rewington&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;twitter&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;facebook&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;meetup&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;date&quot;: &quot;Thursday, March 27th&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hotel Gwendoline&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Lorenzo Garcia&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hilary Goldywynn Post&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Riley Rudolph Rewington&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;twitter&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;facebook&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;meetup&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;date&quot;: &quot;Thursday, March 27th&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hotel Gwendoline&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -627,13 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10440835">
           <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5529954">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -656,38 +670,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5928854">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Lorenzo Garcia&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hilary Goldywynn Post&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Riley Rudolph Rewington&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;twitter&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;facebook&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;meetup&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;date&quot;: &quot;Thursday, March 27th&quot;...}" />
-            <marker date="1396828570000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hotel Gwendoline&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/error.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/launch.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -697,17 +683,6 @@
         <state vertical-scroll-proportion="0.11235955">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="15" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/template/footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19736843">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1451087925000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1451087925000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,24 +721,6 @@
             <marker date="1403203730000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1403203730000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1403203730000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23170732">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451030574000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -934,36 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/content/artworklist.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07092199">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding>
-            <marker date="1451104506000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/content/nextmeeting.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035460994">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding>
-            <marker date="1451104583000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/content/socialmedia.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035460994">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-          <folding>
-            <marker date="1451104727000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/content/speakerslist.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.035460994">
@@ -974,10 +901,172 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/content/artworklist.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07092199">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding>
+            <marker date="1451104506000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5673759">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1451028607000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;web2&quot;...}" />
+            <marker date="1451028607000" expanded="true" signature="-1:-1" placeholder="{&quot;start&quot;: &quot;node ./bin/www&quot;...}" />
+            <marker date="1451028607000" expanded="true" signature="-1:-1" placeholder="{&quot;body-parser&quot;: &quot;~1.13.2&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/misc/hotel_gwendoline.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datajson-note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="43" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44966444">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451111508000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/flickr.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/google.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/meetup.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/socialmediaicons_fw.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/twitter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/youtube.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/wordpress.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/facebook.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/socialmedia/linkedin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/template/footer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17730497">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <marker date="1451116001000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451116001000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6926714">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Lorenzo Garcia&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hilary Goldywynn Post&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Riley Rudolph Rewington&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;twitter&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;facebook&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;shortname&quot;: &quot;meetup&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;date&quot;: &quot;Thursday, March 27th&quot;...}" />
+            <marker date="1451112334000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;Hotel Gwendoline&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/content/nextmeeting.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35460994">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <marker date="1451115892000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451115892000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45454547">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.63829786">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <marker date="1451105088000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451105088000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451105088000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451105088000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451105088000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/content/socialmedia.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28368795">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>

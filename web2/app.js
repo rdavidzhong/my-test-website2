@@ -22,6 +22,11 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Added this two line for Next Meeting
+var data = require('./data.json');
+app.locals.appdata = require('./data.json');
+// end
+
 app.use('/', routes);
 ///app.use('/users', users);
 

@@ -6,7 +6,7 @@ Create by using Express generator
 ./launch.sh
 
 
-2. To update your local folder with you Github account
+2. To update your local folder with your Github account
 
 ./sync.sh
 

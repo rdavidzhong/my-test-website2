@@ -11,10 +11,10 @@ Create by using Express generator
 ./sync.sh
 
 
-######To create by using tamplate 
+###To create by using tamplate 
 
-###express -e web2
+######express -e web2
 
-###cd web2 && npm install
+######cd web2 && npm install
 
-###DEBUG=web2:* npm start
+######DEBUG=web2:* npm start

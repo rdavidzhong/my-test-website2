@@ -1,4 +1,4 @@
-# Front end - Web2 
+# Front - Web2 
 Create by using Express generator
 
 1. To launch website
@@ -6,6 +6,7 @@ Create by using Express generator
 
 
 2. To update your local folder with you Github account
+test
  ./sync.sh
 
 

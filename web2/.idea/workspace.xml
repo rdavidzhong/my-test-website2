@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05c35165-9c7a-41b8-b3d1-c46c72177aca" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/content/artworklist.ejs" afterPath="$PROJECT_DIR$/views/partials/content/artworklist.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web2.iws" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="artworklist.ejs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/partials/content/artworklist.ejs">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42553192">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state vertical-scroll-proportion="12.852349">
+              <caret line="383" column="26" selection-start-line="383" selection-start-column="26" selection-end-line="383" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -84,8 +85,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="67" />
+    <option name="x" value="2" />
+    <option name="y" value="24" />
     <option name="width" value="1468" />
     <option name="height" value="709" />
   </component>
@@ -250,54 +251,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="socialmedia" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -574,15 +527,15 @@
       <workItem from="1451029189891" duration="2726000" />
       <workItem from="1451034365510" duration="332000" />
       <workItem from="1451035794863" duration="2493000" />
-      <workItem from="1451082904677" duration="15695000" />
+      <workItem from="1451082904677" duration="15878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21246000" />
+    <option name="totallyTimeSpent" value="21429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="67" width="1468" height="709" extended-state="0" />
+    <frame x="2" y="24" width="1468" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -768,83 +721,6 @@
             <marker date="1451100498000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1451100498000" expanded="true" signature="-1:-1" placeholder="..." />
             <marker date="1451100498000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7315436">
-          <caret line="385" column="18" selection-start-line="385" selection-start-column="18" selection-end-line="385" selection-end-column="18" />
-          <folding>
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1451100610000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1074,6 +950,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42553192">
           <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <marker date="1451122431000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451122431000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1451122431000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451122431000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="12.852349">
+          <caret line="383" column="26" selection-start-line="383" selection-start-column="26" selection-end-line="383" selection-end-column="26" />
           <folding />
         </state>
       </provider>

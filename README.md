@@ -11,7 +11,7 @@ Create by using Express generator
 ./sync.sh
 
 
-Initializing project
+To create by using tamplate 
 
 express -e web2
 

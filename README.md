@@ -11,7 +11,7 @@ Create by using Express generator
 ./sync.sh
 
 
-###To create by using tamplate 
+###To create a webpage by using tamplate 
 
 ######express -e web2
 

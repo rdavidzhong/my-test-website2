@@ -6,8 +6,8 @@ Create by using Express generator
 
 
 2. To update your local folder with you Github account
-test
- ./sync.sh
+
+./sync.sh
 
 
 Initializing project

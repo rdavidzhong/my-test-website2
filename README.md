@@ -1,10 +1,10 @@
-# Web2 
+# Front end - Web2 
 Create by using Express generator
 
-To launch website
+1. To launch website
 ./launch.sh
 
-To update your local folder with you Github account
+2. To update your local folder with you Github account
 ./sync.sh
 
 

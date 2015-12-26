@@ -6,12 +6,17 @@ var appdata = require('../data.json');
 /* GET home page. */
 router.get('/', function(req, res) {
   var myArtwork = [];
+  // Lesson 26
+  var myArtists = [];
+  myArtists = appdata.speakers;
+
   appdata.speakers.forEach(function(item) {
     myArtwork = myArtwork.concat(item.artwork);
   });
   res.render('index', {
     title: 'Home',
-    artwork: myArtwork
+    artwork: myArtwork,
+    artists: myArtists
   });
 });
 
@@ -26,25 +31,37 @@ router.get('/', function(req, res) {
 /* GET speakers page. */
 router.get('/speakers', function(req, res) {
   var myArtwork = [];
+  // Lesson 26
+  var myArtists = [];
+  myArtists = appdata.speakers;
+
   appdata.speakers.forEach(function(item) {
       myArtwork = myArtwork.concat(item.artwork);
   });
   res.render('speakers', {
     title: 'Speakers',
-    artwork: myArtwork
+    artwork: myArtwork,
+    artists: myArtists
   });
 });
 
 router.get('/speakers/:speakerid', function(req, res) {
   var myArtwork = [];
+  // 26
+  var myArtists = [];
+
   appdata.speakers.forEach(function(item) {
     if (item.shortname == req.params.speakerid) {
+      // 26
+      myArtists.push(item);
+      // 25
       myArtwork = myArtwork.concat(item.artwork);
     }
   });
   res.render('speakers', {
     title: 'Speakers',
-    artwork: myArtwork
+    artwork: myArtwork,
+    artists: myArtists
   });
 });
 

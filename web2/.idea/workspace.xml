@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05c35165-9c7a-41b8-b3d1-c46c72177aca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/speakers.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/content/speakerslist.ejs" afterPath="$PROJECT_DIR$/views/partials/content/speakerslist.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web2.iws" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <file leaf-file-name="speakerslist.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/partials/content/speakerslist.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75059384">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.6367925">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -58,7 +58,6 @@
         <option value="$PROJECT_DIR$/views/partials/content/getbusy.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/whoarewe.ejs" />
         <option value="$PROJECT_DIR$/views/partials/content/whoshouldcome.ejs" />
-        <option value="$PROJECT_DIR$/views/partials/content/speakerslist.ejs" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/datajson-note.txt" />
@@ -69,6 +68,7 @@
         <option value="$PROJECT_DIR$/views/partials/content/artworklist.ejs" />
         <option value="$PROJECT_DIR$/views/speakers.ejs" />
         <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/views/partials/content/speakerslist.ejs" />
       </list>
     </option>
   </component>
@@ -144,6 +144,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -436,12 +476,12 @@
       <workItem from="1451035794863" duration="2493000" />
       <workItem from="1451082904677" duration="16169000" />
       <workItem from="1451123085454" duration="16000" />
-      <workItem from="1451151410073" duration="3343000" />
+      <workItem from="1451151410073" duration="5460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25079000" />
+    <option name="totallyTimeSpent" value="27196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
@@ -599,13 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21276596">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/content/speakerslist.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035460994">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -775,8 +808,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75059384">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.67933494">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{&quot;title&quot;: 'Home'...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{&quot;title&quot;: 'Speakers'...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1451165775000" expanded="true" signature="-1:-1" placeholder="{&quot;title&quot;: 'Speakers'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/content/speakerslist.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6367925">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding />
         </state>
       </provider>
